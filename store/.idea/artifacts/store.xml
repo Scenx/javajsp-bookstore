@@ -1,0 +1,51 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="store">
+    <output-path>$PROJECT_DIR$/out/artifacts/store</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="store/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="store" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jstl.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/mail.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/standard.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/ezmorph-1.0.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-io-1.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-lang-2.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.4-jdk15.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-dbutils-1.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.8.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.2.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.2.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar" />
+          <element id="file-copy" path="D:/java工具/j2ee/j2ee最新教程/javaee最新教程/javaee最新教程/新建文件夹(1)/黑马19期JavaEE（北京）/02、第二阶段Java web/day20-23bookStore商城/day20-23bookStore商城/资料/系统jar包/jstl.jar" />
+          <element id="file-copy" path="D:/java工具/j2ee/j2ee最新教程/javaee最新教程/javaee最新教程/新建文件夹(1)/黑马19期JavaEE（北京）/02、第二阶段Java web/day20-23bookStore商城/day20-23bookStore商城/资料/系统jar包/standard.jar" />
+          <element id="file-copy" path="D:/java工具/j2ee/j2ee最新教程/javaee最新教程/javaee最新教程/新建文件夹(1)/黑马19期JavaEE（北京）/02、第二阶段Java web/day20-23bookStore商城/day20-23bookStore商城/资料/系统jar包/c3p0-0.9.1.2.jar" />
+          <element id="file-copy" path="D:/java工具/j2ee/j2ee最新教程/javaee最新教程/javaee最新教程/新建文件夹(1)/黑马19期JavaEE（北京）/02、第二阶段Java web/day20-23bookStore商城/day20-23bookStore商城/资料/系统jar包/commons-io-2.2.jar" />
+          <element id="file-copy" path="D:/java工具/j2ee/j2ee最新教程/javaee最新教程/javaee最新教程/新建文件夹(1)/黑马19期JavaEE（北京）/02、第二阶段Java web/day20-23bookStore商城/day20-23bookStore商城/资料/系统jar包/javax.mail-1.5.1.jar" />
+          <element id="file-copy" path="D:/java工具/j2ee/j2ee最新教程/javaee最新教程/javaee最新教程/新建文件夹(1)/黑马19期JavaEE（北京）/02、第二阶段Java web/day20-23bookStore商城/day20-23bookStore商城/资料/系统jar包/commons-dbutils-1.4.jar" />
+          <element id="file-copy" path="D:/java工具/j2ee/j2ee最新教程/javaee最新教程/javaee最新教程/新建文件夹(1)/黑马19期JavaEE（北京）/02、第二阶段Java web/day20-23bookStore商城/day20-23bookStore商城/资料/系统jar包/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="D:/java工具/j2ee/j2ee最新教程/javaee最新教程/javaee最新教程/新建文件夹(1)/黑马19期JavaEE（北京）/02、第二阶段Java web/day20-23bookStore商城/day20-23bookStore商城/资料/系统jar包/commons-beanutils-1.8.3.jar" />
+          <element id="file-copy" path="D:/java工具/j2ee/j2ee最新教程/javaee最新教程/javaee最新教程/新建文件夹(1)/黑马19期JavaEE（北京）/02、第二阶段Java web/day20-23bookStore商城/day20-23bookStore商城/资料/系统jar包/commons-fileupload-1.2.2.jar" />
+          <element id="file-copy" path="D:/java工具/j2ee/j2ee最新教程/javaee最新教程/javaee最新教程/新建文件夹(1)/黑马19期JavaEE（北京）/02、第二阶段Java web/day20-23bookStore商城/day20-23bookStore商城/资料/系统jar包/mysql-connector-java-5.0.8-bin.jar" />
+          <element id="file-copy" path="D:/java工具/j2ee/j2ee最新教程/javaee最新教程/javaee最新教程/新建文件夹(1)/黑马19期JavaEE（北京）/02、第二阶段Java web/day20-23bookStore商城/day20-23bookStore商城/资料/系统jar包/activation.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/jstl.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/standard.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/activation.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/c3p0-0.9.1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-io-2.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javax.mail-1.5.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-dbutils-1.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-beanutils-1.8.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-fileupload-1.2.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/mysql-connector-java-5.0.8-bin.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
